@@ -200,7 +200,7 @@ jobs:
             org.opencontainers.image.title=Generative UI Starter (Docker)
             org.opencontainers.image.description=Dockerized generative-UI starter (Next.js + CopilotKit/AG-UI + LangGraph agent) from awesome-llm-apps
             org.opencontainers.image.vendor=marcelofmatos
-            org.opencontainers.image.licenses=Apache-2.0
+            org.opencontainers.image.licenses=MIT
 
       - name: 🚀 Build and push Docker image
         uses: docker/build-push-action@v7

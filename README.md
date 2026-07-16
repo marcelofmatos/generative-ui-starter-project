@@ -5,7 +5,7 @@ Empacotamento em container do **Generative UI Starter** — um app de demonstra�
 tarefas, cards de voo, dashboards com métricas/gráficos/tabelas) diretamente na tela, além do chat.
 Front **Next.js** com **CopilotKit** + **AG-UI** e agente **LangGraph** (Python, OpenAI).
 
-- **Upstream (Apache-2.0):** [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — `generative_ui_agents/generative-ui-starter-project`
+- **Upstream:** [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — `generative_ui_agents/generative-ui-starter-project`
 - **Imagem:** `ghcr.io/marcelofmatos/generative-ui-starter-project`
 - **Stack Portainer:** [`marcelofmatos/portainer-stacks`](https://github.com/marcelofmatos/portainer-stacks) → `gen-ui-starter/`
 
@@ -53,4 +53,4 @@ docker build -t ghcr.io/marcelofmatos/generative-ui-starter-project:dev .
 
 ## Licença
 
-Código da aplicação sob **Apache-2.0** (do upstream awesome-llm-apps). Ver [LICENSE](LICENSE).
+Código sob **MIT** (licença própria do app; a coleção awesome-llm-apps é Apache-2.0). Ver [LICENSE](LICENSE).
